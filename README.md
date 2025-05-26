@@ -1,6 +1,6 @@
 # Tableau
 ## Costs vs Profi Summary Dashboard
-<li> Szybki dashboard analizujący sprzedaż produktów biurowych, koszty, zysk w latach 2014 - 2017 na podstawie bazy Superstore.
+<li> Szybki dashboard analizujący sprzedaż produktów biurowych, koszty, zysk wg kategorii i podkategorii produktów w latach 2014 - 2017 na podstawie bazy Superstore.
 <li> Typ danych źródłowych: xlsx
 <li> Techstack: Tableau
 
